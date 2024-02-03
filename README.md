@@ -1,21 +1,20 @@
 Hi👋 My name is Kyriakos Patoucheas 😄
 ========================================================================================================================================
 
-🌍  I am a Software Developer based in Montreal, Canada.
+🌍  I'm a developer based in Montreal, Canada.
 <br/>
 
-## Skills
+# Skills 🚀
 
-#### Front-End & Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwind,express&perline=8)](https://skillicons.dev)
+### Front-End & Web Development 💻
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,tailwind,express&perline=4)](https://skillicons.dev)
 <br/>
 
-#### Programming Languages
+### Programming Languages 🛠️
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py&theme=light)](https://skillicons.dev)
 <br/>
 
-## Connect with me!
-
+### Connect with me 📫
 <p>
   <a href="https://www.linkedin.com/in/kyriakos-patoucheas/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" />
