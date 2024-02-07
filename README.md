@@ -11,7 +11,7 @@ Hi👋 My name is Kyriakos Patoucheas 😄
 <br/>
 
 ### Programming Languages 🛠️
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c&theme=light)](https://skillicons.dev)
 <br/>
 
 ### Connect with me 📫
