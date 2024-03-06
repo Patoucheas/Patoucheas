@@ -10,7 +10,7 @@
 <br/>
 
 ### Programming Languages 🛠️
-[![My Skills](https://skillicons.dev/icons?i=py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)
 <br/>
 
 ### Connect with me 📫
