@@ -1,6 +1,6 @@
 # Hi👋 My name is Kyriakos Patoucheas
 
-🌍 I'm a developer based in Montreal, Canada. 
+I'm a developer based in Montreal, Canada 🌍
 <br/>
 
 # My Skills
@@ -21,5 +21,13 @@
 <p>
   <a href="https://www.linkedin.com/in/kyriakos-patoucheas/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" />
+  </a>
+</p>
+
+### Current Work 💼
+<p>I'm currently focusing on projects under my work account:</p>
+<p>
+  <a href="https://github.com/superkyriakos" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub Work Account" />
   </a>
 </p>
