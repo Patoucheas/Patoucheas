@@ -1,16 +1,20 @@
-# Hi👋 My name is Kyriakos Patoucheas 😄
+# Hi👋 My name is Kyriakos Patoucheas
 
 🌍 I'm a developer based in Montreal, Canada. 
 <br/>
 
 # My Skills 🚀
 
-### MERN Stack for Web Development 💻
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js&perline=4)](https://skillicons.dev)
+### MEAN Stack for Web Development 🌐
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,angular,nodejs,html,css,js,ts&perline=4)](https://skillicons.dev)
 <br/>
 
-### Programming Languages 🛠️
-[![My Skills](https://skillicons.dev/icons?i=py,java,c)](https://skillicons.dev)
+### Programming Languages 💻
+[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c)](https://skillicons.dev)
+<br/>
+
+### Additional Frameworks & Technologies I Utilize 🛠️
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,tailwind,graphql,dotnet,firebase,aws,mysql,arduino,raspberrypi,postman&perline=4)](https://skillicons.dev)
 <br/>
 
 ### Connect with me 📫
