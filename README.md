@@ -3,7 +3,7 @@
 🌍 I'm a developer based in Montreal, Canada. 
 <br/>
 
-# My Skills 🚀
+# My Skills
 
 ### MEAN Stack for Web Development 🌐
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,angular,nodejs,html,css,js,ts&perline=4)](https://skillicons.dev)
