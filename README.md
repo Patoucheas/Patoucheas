@@ -5,16 +5,12 @@ I'm a developer based in Montreal, Canada 🌍
 
 # My Skills
 
-### MEAN Stack for Web Development 🌐
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,angular,nodejs,html,css,js,ts&perline=4)](https://skillicons.dev)
+### Web Development 🌐
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,angular,nodejs,nextjs,react,tailwind,bootstrap&perline=4)](https://skillicons.dev)
 <br/>
 
 ### Programming Languages 💻
-[![My Skills](https://skillicons.dev/icons?i=py,java,cs,c)](https://skillicons.dev)
-<br/>
-
-### Additional Frameworks & Technologies I Utilize 🛠️
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,tailwind,graphql,dotnet,firebase,aws,mysql,arduino,raspberrypi,postman&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,java)](https://skillicons.dev)
 <br/>
 
 ### Connect with me 📫
